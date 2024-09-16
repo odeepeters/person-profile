@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Image from './image/img-5.jpg'; // Import the image
+import Image from './image/img-4.jpg'; // Import the image
 import './App.css'; // Import the CSS file
 
 class App extends Component {
